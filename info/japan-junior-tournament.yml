@@ -1,0 +1,15 @@
+---
+object: set
+id: 94714b9a-cfb2-4514-a1fb-1071146cff69
+code: pjjt
+name: Japan Junior Tournament
+uri: https://api.scryfall.com/sets/94714b9a-cfb2-4514-a1fb-1071146cff69
+scryfall_uri: https://scryfall.com/sets/pjjt
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apjjt&unique=prints
+released_at: '2003-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800

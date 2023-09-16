@@ -1,0 +1,111 @@
+---
+object: card
+id: cdc73956-c380-453e-83da-fee366975ccc
+oracle_id: 3b629793-0efb-4d60-9d82-38b7b400abfd
+multiverse_ids: []
+tcgplayer_id: 503280
+cardmarket_id: 18191
+name: Shard Phoenix
+lang: ja
+released_at: '2006-07-01'
+uri: https://api.scryfall.com/cards/cdc73956-c380-453e-83da-fee366975ccc
+scryfall_uri: https://scryfall.com/card/pjjt/2N06/ja/shard-phoenix?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/d/cdc73956-c380-453e-83da-fee366975ccc.jpg?1562636901
+  normal: https://cards.scryfall.io/normal/front/c/d/cdc73956-c380-453e-83da-fee366975ccc.jpg?1562636901
+  large: https://cards.scryfall.io/large/front/c/d/cdc73956-c380-453e-83da-fee366975ccc.jpg?1562636901
+  png: https://cards.scryfall.io/png/front/c/d/cdc73956-c380-453e-83da-fee366975ccc.png?1562636901
+  art_crop: https://cards.scryfall.io/art_crop/front/c/d/cdc73956-c380-453e-83da-fee366975ccc.jpg?1562636901
+  border_crop: https://cards.scryfall.io/border_crop/front/c/d/cdc73956-c380-453e-83da-fee366975ccc.jpg?1562636901
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Creature — Phoenix
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
+  {R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate only during your upkeep.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 94714b9a-cfb2-4514-a1fb-1071146cff69
+set: pjjt
+set_name: Japan Junior Tournament
+set_type: promo
+set_uri: https://api.scryfall.com/sets/94714b9a-cfb2-4514-a1fb-1071146cff69
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apjjt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pjjt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cdc73956-c380-453e-83da-fee366975ccc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3b629793-0efb-4d60-9d82-38b7b400abfd&unique=prints
+collector_number: 2N06
+digital: false
+rarity: rare
+watermark: japanjunior
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spencer
+artist_ids:
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 5e9919da-0246-40b7-b9d5-91cd0da6a9b7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12179
+penny_rank: 5373
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '39.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shard+Phoenix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shard+Phoenix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shard+Phoenix
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/503280?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shard+Phoenix&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shard+Phoenix&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
